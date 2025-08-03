@@ -1,0 +1,11 @@
+﻿#EXTM3U8
+#EXTINF:-1,ТНТ (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
+#EXTINF:-1,ТНТ (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
+#EXTINF:-1,ТНТ (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
+#EXTINF:-1,ТНТ4 (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8
+#EXTINF:-1,ТНТ4 (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8
